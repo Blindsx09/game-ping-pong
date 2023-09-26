@@ -1,7 +1,7 @@
 <h1 align="center"> Jogo Ping Pong </h1>
 
 <p align="center">
-Mini-game criado e desenvolvido em JavaScript, promovido em aulas pela <a href="https://st.devsamurai.com.br/0cqlvn/index.html?utm_source=&utm_medium=cpc&utm_campaign=15847297851&utm_content=574424152468&xpromo=gl-574424152468&utm_term=133556228353&gclid=CjwKCAjwgsqoBhBNEiwAwe5w00y09GzlK7NZOr0fi6jTAWuzYmnKX-u8DlMKIWQb5fOEQE8KVYk8HBoCt5UQAvD_BwE" target='_blank'>Dev Samurai</a> para ensino de tecnologias WEB. <br/>
+Mini-game criado e desenvolvido em JavaScript, promovido em aulas pela <a href="https://st.devsamurai.com.br/0cqlvn/index.html?utm_source=&utm_medium=cpc&utm_campaign=15847297851&utm_content=574424152468&xpromo=gl-574424152468&utm_term=133556228353&gclid=CjwKCAjwgsqoBhBNEiwAwe5w00y09GzlK7NZOr0fi6jTAWuzYmnKX-u8DlMKIWQb5fOEQE8KVYk8HBoCt5UQAvD_BwE" target="_blank">Dev Samurai</a> para ensino de tecnologias WEB. <br/>
 
 
 <p align="center">
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um mini-game desenvolvido em aulas para aplicar alguns fundamentos de programação, utilizando JavaScript.  
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://blindsx09.github.io/game-ping-pong/)
 
 
 ## 🔖 Layout
